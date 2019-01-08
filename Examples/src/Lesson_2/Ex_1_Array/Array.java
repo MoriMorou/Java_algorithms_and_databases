@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 
-public class Ex_1_Array {
+public class Array {
 
     public static void main(String[] args) {
         // создание массива
