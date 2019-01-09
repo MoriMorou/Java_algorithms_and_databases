@@ -5,7 +5,7 @@ import java.util.function.Consumer;
 
 // Методы в этом классе - получение эелемента и проверка наличия следующего элемента
 public class LinkIterator implements Iterator {
-    private Link current;
+    public Link current;
     private Link previous;
     private LinkedList linkedList;
 
