@@ -40,3 +40,4 @@ public class LinkedList<T> {
         return head;
     }
 }
+

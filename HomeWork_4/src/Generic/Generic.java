@@ -3,7 +3,7 @@ package Generic;
 public class Generic {
 
     public static void main(String[] args) {
-        LinkedList<String> list = new LinkedList<>();
+        LinkedList<String> list = new LinkedList<String>();
         list.insert("Hello");
         list.insert("All");
         list.insert("My Friends!");
