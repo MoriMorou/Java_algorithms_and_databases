@@ -39,5 +39,9 @@ public class LinkedList<T> {
     public Link getFirst() {
         return head;
     }
+
+    public void setFirst(Link link) {
+        this.head = link;
+    }
 }
 

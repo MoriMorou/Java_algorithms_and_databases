@@ -8,10 +8,11 @@ public class Generic {
         list.insert("All");
         list.insert("My Friends!");
         LinkIterator iterator = new LinkIterator(list);
+        Link<String> link = (Link<String>)iterator.current;
+        System.out.println(link.getValue());
         while (iterator.hasNext()){
-            Link<String> link = (Link<String>) iterator.next();
-            link.getValue();
-            System.out.println(link);
+            link = (Link<String>) iterator.next();
+            System.out.println(link.getValue());
         }
     }
 }

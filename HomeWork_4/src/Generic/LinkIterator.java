@@ -5,7 +5,7 @@ import java.util.function.Consumer;
 
 // Методы в этом классе - получение эелемента и проверка наличия следующего элемента
 public class LinkIterator implements Iterator {
-    private Link current;
+    public Link current;
     private Link previous;
     private LinkedList linkedList;
 
@@ -32,7 +32,19 @@ public class LinkIterator implements Iterator {
 
     @Override
     public void remove() {
-
+        Object object = current.getValue();
+        if (previous == null){
+            linkedList.setFirst(current.getNext());
+            reset();
+        } else {
+            previous.setNext(current.getNext());
+            if (!hasNext()) {
+                reset();
+            } else {
+                current = current.getNext();
+            }
+        }
+        System.out.println(object);
     }
 
     @Override
