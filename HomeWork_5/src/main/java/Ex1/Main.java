@@ -1,7 +1,6 @@
-package Ex_1;
+package Ex1;
 
 // 1. Написать программу по возведению числа в степень с помощью рекурсии.
-
 // взяла не все варианты возведения в степень
 
 import java.util.Scanner;
@@ -15,5 +14,6 @@ public class Main {
         int n = in.nextInt();
         Exponentiation ex = new Exponentiation();
         System.out.println(ex.exponentiation(number, n));
+
     }
 }
