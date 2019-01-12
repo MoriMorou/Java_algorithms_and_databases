@@ -1,4 +1,4 @@
-package Ex1;
+package Ex_1;
 
 public class Exponentiation {
 
