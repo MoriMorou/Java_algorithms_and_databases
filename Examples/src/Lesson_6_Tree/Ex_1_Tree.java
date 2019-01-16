@@ -30,7 +30,7 @@ public class Ex_1_Tree {
         } else {
             Node current = root;
             Node parent;
-            while (true) 
+            while (true)
         }
     }
 
