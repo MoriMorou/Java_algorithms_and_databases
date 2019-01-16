@@ -23,7 +23,15 @@ public class Ex_1_Tree {
     }
 
     void insert(Person person) {
-
+        Node node = new Node();
+        node.person = person;
+        if (root == null){
+            root = node;
+        } else {
+            Node current = root;
+            Node parent;
+            while (true) 
+        }
     }
 
     boolean delete (int id) {
