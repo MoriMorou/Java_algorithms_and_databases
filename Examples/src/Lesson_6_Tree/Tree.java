@@ -55,6 +55,7 @@ public class Tree {
     }
 
     void displayTree(){
+        inOrder(root);
 
     }
 
@@ -73,6 +74,7 @@ public class Tree {
         tree.insert(Person.getNewPerson("Olga", 36, 3));
         tree.insert(Person.getNewPerson("Givi", 39, 4));
         tree.insert(Person.getNewPerson("Mori", 30, 5));
+        tree.displayTree();
 
     }
 }
