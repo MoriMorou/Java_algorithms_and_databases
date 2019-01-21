@@ -35,7 +35,10 @@ public class Graph {
         displayVertex(0);
         stack.push(0);
         while (!stack.isEmpty()) {
-            int v = getAdjUnvisitedVertex(stack.peek());
+            int peak = getAdjUnvisitedVertex(stack.peek());
+            if (peak == -1) {
+                stack.pop();
+            }
         }
     }
 
@@ -48,7 +51,6 @@ public class Graph {
         return -1;
     }
 
-    // Сейчас на 49ей минуте
 
     // добавляем вершину
     void addVertex(String label) {
