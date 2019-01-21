@@ -1,28 +1,58 @@
 package Lesson_7_Graph;
 
+/**
+ * Обход в гдубину (Посетить вершину >> Занести вершину в стек >> Отметить вершину, как посещенную >>
+ * Переход к смежной вершине)
+ *
+ *
+ *
+ */
+
+
 public class Graph {
 
     private static final int MAX_VERTEX = 32;
-    private Vertex[] verticesList;
-    private int[][] adjMatrix;
+    private Vertex[] vertexList;
+    private int[][] adjMatrix; // матрица смежности
     private int counter;
+    private Stack stack;
 
 
     public Graph() {
-        verticesList = new Vertex[MAX_VERTEX];
+        vertexList = new Vertex[MAX_VERTEX];
         counter = 0;
         adjMatrix = new int[MAX_VERTEX][MAX_VERTEX];
         for (int i = 0; i < MAX_VERTEX; i++) {
             for (int j = 0; j < MAX_VERTEX ; j++) {
                 adjMatrix[i][i] = 0;
             }
-
         }
     }
 
+    // в глубину
+    void findInDeep(){
+        vertexList[0].updateStatus();
+        displayVertex(0);
+        stack.push(0);
+        while (!stack.isEmpty()) {
+            int v = getAdjUnvisitedVertex(stack.peek());
+        }
+    }
+
+    private int getAdjUnvisitedVertex(int peek) {
+        for (int i = 0; i < counter; i++) {
+            if ( adjMatrix[peek][i] == 1 && vertexList[i].wasVisited() == false) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    // Сейчас на 49ей минуте
+
     // добавляем вершину
     void addVertex(String label) {
-        verticesList[counter++] = new Vertex(label);
+        vertexList[counter++] = new Vertex(label);
     }
 
     // добавляем ребро
@@ -32,7 +62,7 @@ public class Graph {
     }
 
     void displayVertex(int vertex){
-        System.out.println(verticesList[vertex]);
+        System.out.println(vertexList[vertex]);
     }
 
     void displayAll() {
@@ -57,9 +87,24 @@ class Vertex {
     public String label;
     public boolean wasVisited;
 
-    public Vertex(String abel) {
+    public Vertex(String label) {
         this.label = label;
         this.wasVisited = false;
     }
 
+    void updateStatus(){
+        wasVisited = true;
+    }
+
+    @Override
+    public String toString() {
+        return "Vertex{" +
+                "label='" + label + '\'' +
+                ", wasVisited=" + wasVisited +
+                '}';
+    }
+
+    public boolean wasVisited() {
+        return wasVisited;
+    }
 }
