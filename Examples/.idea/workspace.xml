@@ -20,27 +20,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
+      <file leaf-file-name="HashTable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_8_Hash/HashTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="129">
+              <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2274#2275#0" expanded="true" />
-                <element signature="e#2331#2332#0" expanded="true" />
-                <element signature="e#2529#2530#0" expanded="true" />
-                <element signature="e#2583#2584#0" expanded="true" />
+                <element signature="e#72#73#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -96,9 +84,10 @@
         <option value="$PROJECT_DIR$/src/Lesson_7_Grapf/Graf.java" />
         <option value="$PROJECT_DIR$/src/Lesson_7_Grapf/Grapf.java" />
         <option value="$PROJECT_DIR$/src/Lesson_7_Graph/Grapf.java" />
-        <option value="$PROJECT_DIR$/src/Lesson_8_Hash/Hash.java" />
         <option value="$PROJECT_DIR$/src/Lesson_7_Graph/Stack.java" />
         <option value="$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_8_Hash/Hash.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_8_Hash/HashTable.java" />
       </list>
     </option>
   </component>
@@ -108,18 +97,48 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1032" />
-    <option name="y" value="88" />
-    <option name="width" value="754" />
-    <option name="height" value="833" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1102" />
+    <option name="y" value="142" />
+    <option name="width" value="819" />
+    <option name="height" value="834" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_8_Hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -151,18 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Graph">
-    <configuration name="Deck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_3_Stack_And_Queue.Deck" />
-      <module name="Examples" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_3_Stack_And_Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.HashTable">
     <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_4_Linked_list.Generic.Generic" />
       <module name="Examples" />
@@ -181,6 +189,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson_7_Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_8_Hash.HashTable" />
+      <module name="Examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_8_Hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,19 +277,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Deck" />
       <item itemvalue="Application.SimpleList" />
       <item itemvalue="Application.Generic" />
       <item itemvalue="Application.Tree" />
       <item itemvalue="Application.Graph" />
+      <item itemvalue="Application.HashTable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashTable" />
         <item itemvalue="Application.Graph" />
         <item itemvalue="Application.Tree" />
         <item itemvalue="Application.Generic" />
         <item itemvalue="Application.SimpleList" />
-        <item itemvalue="Application.Deck" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +317,7 @@
     <option name="totallyTimeSpent" value="15219000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="826" y="71" width="603" height="666" extended-state="0" />
+    <frame x="882" y="114" width="655" height="667" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -309,12 +328,12 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.49888143" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31509435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31450093" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2924282" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29227942" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49888143" weight="0.24966353" />
       <window_info id="UI Designer" order="4" />
@@ -324,23 +343,23 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32706767" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Coverage" order="7" sideWeight="0.50111854" side_tool="true" weight="0.07133244" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32706767" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49888143" weight="0.24966353" />
       <window_info id="Designer" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24763705" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49888143" weight="0.24966353" />
+      <window_info anchor="right" id="Coverage" order="7" sideWeight="0.50111854" side_tool="true" weight="0.07133244" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -351,18 +370,18 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3297587" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2924282" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.49888143" weight="0.32974428" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2924282" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="7" sideWeight="0.50111854" side_tool="true" weight="0.07133244" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32706767" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39856115" />
     </layout-to-restore>
@@ -383,6 +402,27 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2274#2275#0" expanded="true" />
+            <element signature="e#2331#2332#0" expanded="true" />
+            <element signature="e#2529#2530#0" expanded="true" />
+            <element signature="e#2583#2584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2261">
@@ -526,7 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson_8_Hash/Hash.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson_3_Stack_And_Queue/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -548,6 +587,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2274#2275#0" expanded="true" />
+            <element signature="e#2331#2332#0" expanded="true" />
+            <element signature="e#2529#2530#0" expanded="true" />
+            <element signature="e#2583#2584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -555,16 +608,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_8_Hash/HashTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="129">
+          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2274#2275#0" expanded="true" />
-            <element signature="e#2331#2332#0" expanded="true" />
-            <element signature="e#2529#2530#0" expanded="true" />
-            <element signature="e#2583#2584#0" expanded="true" />
+            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
           </folding>
         </state>
       </provider>
