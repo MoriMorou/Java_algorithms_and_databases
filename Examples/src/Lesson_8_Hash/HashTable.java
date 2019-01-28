@@ -3,12 +3,17 @@ package Lesson_8_Hash;
 public class HashTable {
 
     int hashFunc(String s) {
-        return s.length();
+        char[] chars = s.toCharArray();
+        int out = -1;
+        for (int i = 0; i < chars.length; i++) {
+            out = out + (int)chars[i];
+        }
+        return out;
     }
 
-    //сравниваем дваслов и проверяем длину и содержание
+    //сравниваем два слова и проверяем длину и содержание
     boolean isEquals(String s1, String s2) {
-        if (s1.length() == s2.length()) {
+        if (hashFunc(s1) == hashFunc(s2)) {
                 char[] charS1 = s1.toCharArray();
                 char[] charS2 = s2.toCharArray();
             for (int i = 0; i <s1.length() ; i++) {
