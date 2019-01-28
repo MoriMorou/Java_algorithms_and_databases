@@ -18,13 +18,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-=======
+      <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+      <state relative-caret-position="152">
+      <caret line="9" selection-start-line="9" selection-end-line="9" />
+      =======
       <file leaf-file-name="HashTable.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lesson_8_Hash/HashTable.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -34,12 +34,12 @@
                 <element signature="e#72#73#0" expanded="true" />
                 <element signature="e#104#105#0" expanded="true" />
               </folding>
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+              >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lesson_8_Hash/Hash.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,8 +58,8 @@
           </provider>
         </entry>
       </file>
-=======
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+      =======
+      >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -114,10 +114,10 @@
         <option value="$PROJECT_DIR$/src/Lesson_7_Graph/Stack.java" />
         <option value="$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java" />
         <option value="$PROJECT_DIR$/src/Lesson_8_Hash/Hash.java" />
-<<<<<<< HEAD
-=======
+        <<<<<<< HEAD
+        =======
         <option value="$PROJECT_DIR$/src/Lesson_8_Hash/HashTable.java" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+        >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
       </list>
     </option>
   </component>
@@ -127,19 +127,19 @@
       <select />
     </treeState>
   </component>
-<<<<<<< HEAD
+  <<<<<<< HEAD
   <component name="ProjectFrameBounds">
-    <option name="x" value="654" />
-    <option name="y" value="88" />
-    <option name="width" value="1132" />
-    <option name="height" value="903" />
-=======
+  <option name="x" value="654" />
+  <option name="y" value="88" />
+  <option name="width" value="1132" />
+  <option name="height" value="903" />
+  =======
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1102" />
     <option name="y" value="142" />
     <option name="width" value="819" />
     <option name="height" value="834" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+    >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -147,10 +147,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <pane id="PackagesPane" />
-=======
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+      =======
+      >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,42 +161,42 @@
             <path>
               <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="Examples" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
+              <<<<<<< HEAD
               <item name="out" type="462c0819:PsiDirectoryNode" />
-=======
+              =======
               <item name="src" type="462c0819:PsiDirectoryNode" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+              >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
             </path>
             <path>
               <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="Examples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
+              <<<<<<< HEAD
             </path>
             <path>
               <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="Examples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson_8_Hash" type="462c0819:PsiDirectoryNode" />
-=======
+              =======
               <item name="Lesson_8_Hash" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+              >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <pane id="Scope" />
-=======
+      =======
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+      >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,19 +364,19 @@
     <option name="totallyTimeSpent" value="16020000" />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
+    <<<<<<< HEAD
     <frame x="654" y="88" width="1132" height="903" extended-state="0" />
-=======
+    =======
     <frame x="882" y="114" width="655" height="667" extended-state="1" />
     <editor active="true" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+    >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29174313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <window_info id="Designer" order="3" />
-=======
+      =======
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.49888143" weight="0.32974428" />
@@ -388,11 +388,11 @@
       <window_info content_ui="combo" id="Project" order="0" weight="0.29227942" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49888143" weight="0.24966353" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+      >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32706767" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31509435" />
@@ -402,7 +402,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-=======
+      =======
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -410,7 +410,7 @@
       <window_info anchor="right" id="Coverage" order="7" sideWeight="0.50111854" side_tool="true" weight="0.07133244" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven" order="4" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+      >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
@@ -418,7 +418,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49888143" weight="0.24966353" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Database" order="5" />
@@ -433,7 +433,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-=======
+      =======
       <window_info anchor="bottom" id="Find" order="1" weight="0.32706767" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
@@ -446,7 +446,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="7" sideWeight="0.50111854" side_tool="true" weight="0.07133244" />
       <window_info id="Capture Tool" order="5" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+      >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -466,7 +466,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49888143" weight="0.24966353" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-<<<<<<< HEAD
+      <<<<<<< HEAD
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Database" order="5" />
@@ -475,7 +475,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.49888143" weight="0.32974428" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
-=======
+      =======
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.49888143" weight="0.32974428" />
@@ -490,7 +490,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32706767" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39856115" />
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+      >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,8 +501,8 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-=======
+    <<<<<<< HEAD
+    =======
     <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -559,7 +559,7 @@
         </state>
       </provider>
     </entry>
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+    >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
     <entry file="file://$PROJECT_DIR$/src/Lesson_1/Ex_2_Insterface/Ex_2_Hero.java" />
     <entry file="file://$PROJECT_DIR$/src/Lesson_1/Ex_1_Klassenstrukrur/Ex_1_Klassenstruktur.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -691,10 +691,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson_7_Graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+        <<<<<<< HEAD
         <state relative-caret-position="152">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-=======
+        <caret line="9" selection-start-line="9" selection-end-line="9" />
+        =======
         <state relative-caret-position="17">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
@@ -704,7 +704,7 @@
             <element signature="e#2529#2530#0" expanded="true" />
             <element signature="e#2583#2584#0" expanded="true" />
           </folding>
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+          >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
         </state>
       </provider>
     </entry>
@@ -715,12 +715,12 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
+    <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Lesson_8_Hash/Hash.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-=======
+    <provider selected="true" editor-type-id="text-editor">
+    <state relative-caret-position="57">
+    <caret line="3" selection-start-line="3" selection-end-line="3" />
+    =======
     <entry file="file://$PROJECT_DIR$/src/Lesson_8_Hash/HashTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -729,7 +729,7 @@
             <element signature="e#72#73#0" expanded="true" />
             <element signature="e#104#105#0" expanded="true" />
           </folding>
->>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
+          >>>>>>> b49753d0767a8cb901f14a8050c4e01f68315e23
         </state>
       </provider>
     </entry>
