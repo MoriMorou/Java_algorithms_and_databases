@@ -6,6 +6,7 @@ public class Ex_1_Hero {
 
     }
 }
+
 class ElfHero extends Hero {
 
     @Override

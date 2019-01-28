@@ -21,6 +21,7 @@ public class Ex_1_Klassenstruktur {
         i = 5;
     }
 }
+
 class A{
     private int t;
 

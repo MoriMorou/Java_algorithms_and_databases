@@ -1,7 +1,5 @@
 package Lesson_4_Linked_list.Generic;
 
-import java.util.List;
-
 public class LinkedList<T> {
     private Link<T> head;
 

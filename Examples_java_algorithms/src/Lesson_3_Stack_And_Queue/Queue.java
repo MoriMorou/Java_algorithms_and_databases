@@ -1,7 +1,5 @@
 package Lesson_3_Stack_And_Queue;
 
-import java.util.Arrays;
-
 public class Queue {
 
     private int[] queue;
