@@ -28,22 +28,21 @@ public class HashTable {
         return false;
     }
 
-    public static void main(String[] args) {
-        HashTable ht = new HashTable();
-        System.out.println(ht.isEquals("мама мыла раму", "мама мыла раму"));
-        System.out.println(ht.isEquals("мама мыла раму", "раму мыла мама"));
+    // расчет индекса на основе hash
+    static int indexForHashTable(int hash, int length){
+        return hash & (length - 1);
+    }
 
-        SomeObj obj1 = new SomeObj(1, "name1");
-        SomeObj obj2 = new SomeObj(1, "name2");
-        List<LinkedList<SomeObj>> array = new ArrayList<>(1000); //list стосящий из LinkedList
-        // заполняем List пустыми LikedList (то есть лист состоит из связанных листов)
-        for (int i = 0; i < 1000 ; i++) {
-            array.add(new LinkedList<>());
-        }
-        int index1 = hashFunc(obj1.getName());
-        int index2 = hashFunc(obj2.getName());
-        array.get(index1).push(obj1);
-        array.get(index1).push(obj2);
+    public static void main(String[] args) {
+//        HashTable ht = new HashTable();
+//        System.out.println(ht.isEquals("мама мыла раму", "мама мыла раму"));
+//        System.out.println(ht.isEquals("мама мыла раму", "раму мыла мама"));
+
+        Pair p1 = new Pair(1, "hello");
+        Pair p2 = new Pair(1, "hi");
+        List l = new LinkedList();
+        l.add(p1);
+        l.add(p2);
 
     }
 }
